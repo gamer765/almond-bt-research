@@ -1,0 +1,26 @@
+# Firmware / archives
+*.bin
+*.img
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Extracted firmware trees
+extracted/
+work/
+out/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
